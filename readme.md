@@ -1,6 +1,6 @@
 Global Food Security Analysis and Prediction
 
-This project is to analyze country-level food security rankings by analyzing climate stress, socio-economic factors, and supply chain disruptions.
+This project aims to analyze key factors that influencing global food security under climate induced supply chain disruptions, integration environmental, trade, socioeconomic variables to identify main drivers using datasets from kaggle and predict future risk hotspots
 
 Project Overview
 
