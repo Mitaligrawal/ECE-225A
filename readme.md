@@ -1,6 +1,6 @@
 Global Food Security Analysis and Prediction
 
-This project aims to analyze key factors that influencing global food security under climate induced supply chain disruptions, integration environmental, trade, socioeconomic variables to identify main drivers using datasets from kaggle and predict future risk hotspots
+This project aims to analyze key factors that influencing global food security under climate induced supply chain disruptions, integration environmental, trade, socioeconomic variables to identify main drivers using datasets from kaggle and predict future risk hotspots, we do it by analyzying data country wise and then build a prediction machine , where with given values of supply chain disruption, socioeconomic factor , climate stress it can tell you what ranking it has inturn telling if its a hotspot or not
 
 Project Overview
 
